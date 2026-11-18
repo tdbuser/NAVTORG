@@ -1,0 +1,6 @@
+{
+  "projectId": "YOUR_FIREBASE_PROJECT_ID",
+  "authDomain": "YOUR_FIREBASE_PROJECT_ID.firebaseapp.com",
+  "storageBucket": "YOUR_FIREBASE_PROJECT_ID.appspot.com",
+  "apiKey": "ADD_PUBLIC_WEB_API_KEY"
+}
